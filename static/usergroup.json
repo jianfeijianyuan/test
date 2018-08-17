@@ -1,0 +1,17 @@
+{	
+"usergroup":[		
+	{
+		"groupname": "a组",
+		"membernumber": "3"
+	}, {
+		"groupname": "b组",
+		"membernumber": "3"
+	}, {
+		"groupname": "c组",
+		"membernumber": "1"
+	}, {
+		"groupname": "d组",
+		"membernumber": "2"
+	}
+]
+}

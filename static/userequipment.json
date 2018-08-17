@@ -1,0 +1,17 @@
+{	
+"userequipment":[	
+	{
+		"username": "admin",
+		"equipmentnumber": "3"
+	}, {
+		"username": "a1",
+		"equipmentnumber": "1"
+	}, {
+		"username": "a2",
+		"equipmentnumber": "2"
+	}, {
+		"username": "a3",
+		"equipmentnumber": "2"
+	}
+]
+}

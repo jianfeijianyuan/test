@@ -1,0 +1,21 @@
+{	
+"usermanagement":[		
+	{
+		"username": "admin",
+		"authority": "管理员",
+		"equipmenttype": "环境仓"
+	}, {
+		"username": "a1",
+		"authority": "普通用户",
+		"equipmenttype": "环境仓"
+	}, {
+		"username": "a2",
+		"authority": "普通用户",
+		"equipmenttype": "充电桩"
+	}, {
+		"username": "a3",
+		"authority": "普通用户",
+		"equipmenttype": "充电桩"
+	}
+]
+}

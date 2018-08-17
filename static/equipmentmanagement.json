@@ -1,0 +1,21 @@
+{	
+"equipmentmanagement":[
+	{
+		"equipmentname": "1号高温仓",
+		"equipmenttype": "环境仓",
+		"equipmentlocation": "试验区域（西侧）"
+	}, {
+		"equipmentname": "2号冷冻仓",
+		"equipmenttype": "环境仓",
+		"equipmentlocation": "试验区域（西侧）"
+	}, {
+		"equipmentname": "3号中温仓",
+		"equipmenttype": "环境仓",
+		"equipmentlocation": "试验区域（东侧）"
+	}, {
+		"equipmentname": "4号低温仓",
+		"equipmenttype": "环境仓",
+		"equipmentlocation": "试验区域（东侧）"
+	}
+]	
+}

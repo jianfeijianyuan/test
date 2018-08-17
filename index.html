@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>test</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+  
+  <!-- <script>
+
+function dd(){
+  var cancelBtnList=document.getElementsByClassName('el-button el-button--default');
+  var editBtnList=document.getElementsByClassName('el-button el-button--primary el-button--medium');
+  var showBoxList=document.getElementsByClassName('el-dialog__wrapper');
+  var modal=document.getElementsByClassName('v-modal');
+  if(cancelBtnList.length!=0&&editBtnList.length!=0&&showBoxList.length!=0&&modal.length!=0){
+if(cancelBtnList){
+for(var i=0;i<cancelBtnList.length;i++){
+cancelBtnList[i].addEventListener('click',function(){
+	var showBoxList=document.getElementsByClassName('el-dialog__wrapper');
+	if(showBoxList){
+		for(var j=0;j<showBoxList.length;j++){
+      showBoxList[j].style.display='none';
+      console.log(1);
+		}
+	}
+	
+	var modal=document.getElementsByClassName('v-modal');
+	if(modal){
+		for(var j=0;j<modal.length;j++){
+      modal[j].parentNode.removeChild(modal[j]);
+      console.log(2);
+		}
+	}
+	},true);
+}
+}
+
+for(var i=0;i<editBtnList.length;i++){
+	editBtnList[i].addEventListener('click',function(){
+	var showBoxList=document.getElementsByClassName('el-dialog__wrapper');
+	if(showBoxList){
+		for(var j=0;j<showBoxList.length;j++){
+      showBoxList[j].style.display='block';
+      console.log(3);
+		}
+	}},true);
+}
+}else{
+  setTimeout(dd.bind(null),200);
+}
+}
+
+  window.onload=function(){
+    dd();
+  console.log(11111);
+  }
+  
+  </script> -->
+</html>

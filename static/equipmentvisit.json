@@ -1,0 +1,29 @@
+{	
+"equipmentvisit":[
+	{
+	  "equipmentnumber": "1",
+	  "equipmentid": "axa-001",
+	  "equipmentname": "1号高温仓",
+	  "equipmenttype": "环境仓",
+	  "location": "试验区域（西侧）"
+	}, {
+	  "equipmentnumber": "2",
+	  "equipmentid": "axa-002",
+	  "equipmentname": "2号冷冻仓",
+	  "equipmenttype": "环境仓",
+	  "location": "试验区域（西侧）"
+	}, {
+	  "equipmentnumber": "3",
+	  "equipmentid": "axa-003",
+	  "equipmentname": "3号中温仓",
+	  "equipmenttype": "环境仓",
+	  "location": "试验区域（东侧）"
+	}, {
+	  "equipmentnumber": "4",
+	  "equipmentid": "axa-004",
+	  "equipmentname": "4号低温仓",
+	  "equipmenttype": "环境仓",
+	  "location": "试验区域（东侧）"
+	}
+]	
+}
